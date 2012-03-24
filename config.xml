@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.mel.starterapp"
+	id		= "com.melleeb.starterapp"
 	version 	= "99.999">
 
 	<name>Mel's Starter PhoneGap App</name>
